@@ -1,0 +1,13 @@
+Account Credentials
+Sample,
+Surname - SR-Code - Pin
+
+Admin
+0. Administrator - 22-3257 - 6969
+
+User Accounts
+1. Guerrero - 55-3201 - 2003
+2. Guno - 69-3205 - 3201
+3. Dimaano - 67-3219 - 1234
+4. Sia - 90-3102 - 5012
+5. Frank - 12-5012 - 1205
